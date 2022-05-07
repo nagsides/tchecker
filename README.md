@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/nagsides/tchecker/badge)](https://www.codefactor.io/repository/github/nagsides/tchecker)
+
 # TChecker
 
 [![Build and test TChecker](https://github.com/ticktac-project/tchecker/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/ticktac-project/tchecker/actions/workflows/build-and-test.yml)
